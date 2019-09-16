@@ -48,7 +48,7 @@ package {
     private static const EVENT_FULLSCREEN_EXITED:String  = "fullscreenExited";
 
     public static var config:Object = {
-      'buffer': 3,
+      'buffer': 0,
       'connectionTimeout': 10,
       'scaleUp': false,
       'allowFullscreen': true,
